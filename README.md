@@ -20,3 +20,6 @@ elements used in this program:
 - Constants
 - Basic encryption and decryption
 - Simple blockchain simulation
+
+While the program is very simple, is demonstrates important lessons in basic C++ functionalities.
+With this in mind, I plan to build a hybrid program in Block_Chain_Sim_2, allowing for a more complex system.
